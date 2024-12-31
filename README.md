@@ -73,5 +73,5 @@ This system enhances Linux server security by:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/smart-account-lock-unlock-system.git
+git clone https://github.com/skranjan1999/Smart-account-lock-unlock-system.git
 cd smart-account-lock-unlock-system
