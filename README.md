@@ -26,7 +26,7 @@ This project demonstrates the power of shell scripting, log file analysis, and p
 
 ---
 
-## 🎯 Project Outcome
+## 🎯 Project Outcomes
 This system enhances Linux server security by:  
 - Preventing brute force attacks and unauthorized access.  
 - Automating account management to reduce administrative workload.  
